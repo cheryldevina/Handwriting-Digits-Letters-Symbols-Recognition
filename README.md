@@ -9,4 +9,4 @@
 - Monica Evelyn (C14200026)
 - Amelia Syatriadi (C14200197)
 
-Run by typing ***flask run*** into respective Handwriting Detection folders
+Run by typing ***flask run*** into the terminal of respective Handwriting Detection folders
